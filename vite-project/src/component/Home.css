@@ -1,0 +1,13 @@
+.home_image{
+    width: 100%;
+    margin-bottom: -250px;
+    z-index: -1;
+}
+.home_row{
+    display: flex;
+   /* max-width: 100%; */
+   margin: 10px;
+ 
+    z-index: 1;
+    /* justify-content: center; */
+}
